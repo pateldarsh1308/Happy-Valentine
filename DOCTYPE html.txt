@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Eternal Love ❤️</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #ffdde1, #ee9ca7);
+            font-family: "Courier New", monospace;
+            padding: 40px;
+            color: #2c2c2c;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 30px;
+            border-radius: 15px;
+            max-width: 800px;
+            margin: auto;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        pre {
+            white-space: pre-wrap;
+            font-size: 16px;
+        }
+        h1 {
+            text-align: center;
+            color: #d6336c;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>💘 Eternal Love 💘</h1>
+    <pre>
+Dear Hinu (Hinarsh),
+
+From the moment my life started running,
+you became my favorite function, my perfect return value,
+and the only variable my heart will ever need ❤️
+
+Every day with you is a new version upgrade of happiness.
+You fix my bugs with your smile,
+optimize my stress with your hugs,
+and secure my future with your love 💕
+
+while(true) {
+    love = "Hinu";
+    happiness = "with you";
+    forever = true;
+}
+
+No syntax error, no system crash,
+no update, no patch will ever change
+what I feel for you 💖
+
+You are my home, my peace, my dream,
+my today, my tomorrow, my always.
+I choose you in every lifetime,
+in every line of my destiny.
+
+Happy Valentine’s Day, my queen,
+my wife, my love, my forever 💝
+
+Yours forever,
+Darsh
+
+P.S. Hinarsh is my favorite variable — its value is love, and it can never be null 💘
+    </pre>
+</div>
+
+</body>
+</html>
