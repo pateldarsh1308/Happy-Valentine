@@ -50,8 +50,6 @@ while(true) {
     forever = true;
 }
 
-No syntax error, no system crash,
-no update, no patch will ever change
 what I feel for you 💖
 
 You are my home, my peace, my dream,
@@ -70,4 +68,5 @@ P.S. Hinarsh is my favorite variable — its value is love, and it can never be 
 </div>
 
 </body>
+
 </html>
