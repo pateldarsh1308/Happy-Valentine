@@ -66,7 +66,5 @@ Darsh
 P.S. Hinarsh is my favorite variable — its value is love, and it can never be null 💘
     </pre>
 </div>
-
 </body>
-
 </html>
